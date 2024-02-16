@@ -1,0 +1,24 @@
+﻿  Game.cpp
+C:\Users\Tristan Pitt\OneDrive - Teesside University\GamesDev C++\SnakeGame\SnakeGame\SnakeGame\SnakeGame\Game.cpp(13,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tristan Pitt\OneDrive - Teesside University\GamesDev C++\SnakeGame\SnakeGame\SnakeGame\SnakeGame\Game.cpp(14,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tristan Pitt\OneDrive - Teesside University\GamesDev C++\SnakeGame\SnakeGame\SnakeGame\SnakeGame\Game.cpp(22,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Tristan Pitt\OneDrive - Teesside University\GamesDev C++\SnakeGame\SnakeGame\SnakeGame\SnakeGame\Game.cpp(27,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Tristan Pitt\OneDrive - Teesside University\GamesDev C++\SnakeGame\SnakeGame\SnakeGame\SnakeGame\Game.cpp(27,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Tristan Pitt\OneDrive - Teesside University\GamesDev C++\SnakeGame\SnakeGame\SnakeGame\SnakeGame\Game.cpp(78,50): error C2440: 'initializing': cannot convert from 'Battery' to 'Battery *'
+C:\Users\Tristan Pitt\OneDrive - Teesside University\GamesDev C++\SnakeGame\SnakeGame\SnakeGame\SnakeGame\Game.cpp(78,50): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Users\Tristan Pitt\OneDrive - Teesside University\GamesDev C++\SnakeGame\SnakeGame\SnakeGame\SnakeGame\Game.cpp(88,46): error C2440: 'initializing': cannot convert from 'Battery' to 'Battery *'
+C:\Users\Tristan Pitt\OneDrive - Teesside University\GamesDev C++\SnakeGame\SnakeGame\SnakeGame\SnakeGame\Game.cpp(88,46): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  main.cpp
+D:\Visual\VC\Tools\MSVC\14.34.31933\include\vector(2110,1): error C2036: 'Battery *': unknown size
+D:\Visual\VC\Tools\MSVC\14.34.31933\include\vector(2098,1): message : while compiling class template member function 'void std::vector<Battery,std::allocator<Battery>>::_Tidy(void) noexcept'
+D:\Visual\VC\Tools\MSVC\14.34.31933\include\vector(830,14): message : see reference to function template instantiation 'void std::vector<Battery,std::allocator<Battery>>::_Tidy(void) noexcept' being compiled
+C:\Users\Tristan Pitt\OneDrive - Teesside University\GamesDev C++\SnakeGame\SnakeGame\SnakeGame\SnakeGame\Game.h(24,18): message : see reference to class template instantiation 'std::vector<Battery,std::allocator<Battery>>' being compiled
+  Generating Code...
